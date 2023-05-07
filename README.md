@@ -1,4 +1,4 @@
-# AdventuraQuest
+# AdventuroQuest
 
 AdventuroQuest is an innovative application that aims to simplify the process of searching for and reviewing locations based on different activities and interests. This repository contains the source code and project documentation for AdventuroQuest, an academic project developed to address the challenges individuals face when seeking information about various destinations and activities.
 
