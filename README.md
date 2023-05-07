@@ -1,6 +1,6 @@
-# AdventuraSearch
+# AdventuraQuest
 
-AdventuraSearch is an innovative application that aims to simplify the process of searching for and reviewing locations based on different activities and interests. This repository contains the source code and project documentation for AdventuraSearch, an academic project developed to address the challenges individuals face when seeking information about various destinations and activities.
+AdventuroQuest is an innovative application that aims to simplify the process of searching for and reviewing locations based on different activities and interests. This repository contains the source code and project documentation for AdventuroQuest, an academic project developed to address the challenges individuals face when seeking information about various destinations and activities.
 
 ## Key Features
 
@@ -12,7 +12,7 @@ AdventuraSearch is an innovative application that aims to simplify the process o
 
 ## Getting Started
 
-To get started with AdventuraSearch, follow these steps:
+To get started with AdventuroQuest, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies using the provided package manager.
@@ -30,8 +30,4 @@ Please read our [Contribution Guidelines](./CONTRIBUTING.md) for more informatio
 ## License
 
 This project is licensed under the [MIT License](./LICENSE). Feel free to use, modify, and distribute this application in accordance with the terms of the license.
-
-## Contact
-
-If you have any questions or inquiries about AdventuraSearch, please contact the project team at [adventurasearch@gmail.com](mailto:adventurasearch@gmail.com).
 
